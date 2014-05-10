@@ -1,3 +1,7 @@
 .category{
   color: #aaaaaa;	
 }
+iframe.embed {
+	width: 81%;
+	height: 25em;
+}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Future of Java : James Gosling"
 date:   2014-05-10 20:54:51
-categories: java
+categories: java sun
 ---
 
 <iframe class="embed" 

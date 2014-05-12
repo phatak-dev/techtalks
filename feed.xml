@@ -3,16 +3,16 @@
   <channel>
     <title>Tech Talks</title>
     <description>Its a collection of technical talks that I enjoyed watching. I have avoided putting product announcements or company specific talks.You can also contribute to the list by forking on github.</description>
-    <link>http://ibuildhere.com/techtalks/</link>
-    <atom:link href="http://ibuildhere.com/techtalks/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://phatak-dev.github.io/techtalks/techtalks/</link>
+    <atom:link href="http://phatak-dev.github.io/techtalks/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>The Future Doesn't Have to Be Incremental - Alan Kay</title>
         <description>&lt;p&gt;Great talk by Alan Kay&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 May 2014 02:24:55 +0530</pubDate>
-        <link>http://ibuildhere.com/techtalks/alankay/2014/05/11/The-Future-Doesn't-Have-to-Be-Incremental-Alan-Kay/</link>
-        <guid isPermaLink="true">http://ibuildhere.com/techtalks/alankay/2014/05/11/The-Future-Doesn't-Have-to-Be-Incremental-Alan-Kay/</guid>
+        <link>http://phatak-dev.github.io/techtalks/techtalks/alankay/2014/05/11/The-Future-Doesn't-Have-to-Be-Incremental-Alan-Kay/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/techtalks/alankay/2014/05/11/The-Future-Doesn't-Have-to-Be-Incremental-Alan-Kay/</guid>
       </item>
     
       <item>
@@ -20,8 +20,8 @@
         <description>&lt;p&gt;Great talk on entrepreneurial spirit by Sun Microsystem cofounder.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 May 2014 02:24:53 +0530</pubDate>
-        <link>http://ibuildhere.com/techtalks/sun/2014/05/11/The-Process-of-innovation-Andreas-Bechtolsheim/</link>
-        <guid isPermaLink="true">http://ibuildhere.com/techtalks/sun/2014/05/11/The-Process-of-innovation-Andreas-Bechtolsheim/</guid>
+        <link>http://phatak-dev.github.io/techtalks/techtalks/sun/2014/05/11/The-Process-of-innovation-Andreas-Bechtolsheim/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/techtalks/sun/2014/05/11/The-Process-of-innovation-Andreas-Bechtolsheim/</guid>
       </item>
     
       <item>
@@ -29,8 +29,8 @@
         <description>&lt;p&gt;History of first personal computer created at Paulo alto research center.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 May 2014 02:24:52 +0530</pubDate>
-        <link>http://ibuildhere.com/techtalks/alto/2014/05/11/The-Xerox-Alto-A-Personal-Retrospective/</link>
-        <guid isPermaLink="true">http://ibuildhere.com/techtalks/alto/2014/05/11/The-Xerox-Alto-A-Personal-Retrospective/</guid>
+        <link>http://phatak-dev.github.io/techtalks/techtalks/alto/2014/05/11/The-Xerox-Alto-A-Personal-Retrospective/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/techtalks/alto/2014/05/11/The-Xerox-Alto-A-Personal-Retrospective/</guid>
       </item>
     
       <item>
@@ -38,8 +38,8 @@
         <description>&lt;p&gt;Story of creation of JSON and its world domination.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 May 2014 02:24:51 +0530</pubDate>
-        <link>http://ibuildhere.com/techtalks/douglas-crockford/2014/05/11/The-JSON%20-Saga-Douglas-%20Crockford/</link>
-        <guid isPermaLink="true">http://ibuildhere.com/techtalks/douglas-crockford/2014/05/11/The-JSON%20-Saga-Douglas-%20Crockford/</guid>
+        <link>http://phatak-dev.github.io/techtalks/techtalks/douglas-crockford/2014/05/11/The-JSON%20-Saga-Douglas-%20Crockford/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/techtalks/douglas-crockford/2014/05/11/The-JSON%20-Saga-Douglas-%20Crockford/</guid>
       </item>
     
   </channel>

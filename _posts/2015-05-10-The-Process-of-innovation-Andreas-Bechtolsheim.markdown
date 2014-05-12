@@ -6,5 +6,5 @@ categories: sun
 ---
 
 <iframe class="embed" 
-src="https://www.youtube.com/embed/08frKEAtav4">
+src="https://www.youtube.com/embed/08frKEAtav4" allowFullScreen="1">
 </iframe>

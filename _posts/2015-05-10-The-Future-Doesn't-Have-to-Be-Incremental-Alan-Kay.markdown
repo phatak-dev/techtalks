@@ -8,5 +8,5 @@ categories: AlanKay
 Great talk by Alan Kay
 
 <iframe class="embed" 
-src="https://www.youtube.com/embed/gTAghAJcO1o">
+src="https://www.youtube.com/embed/gTAghAJcO1o" allowFullScreen="1">
 </iframe>

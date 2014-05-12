@@ -6,5 +6,5 @@ categories: Douglas-Crockford
 ---
 
 <iframe class="embed" 
-src="https://www.youtube.com/embed/-C-JoyNuQJs" allowfullscreen="1">
+src="https://www.youtube.com/embed/-C-JoyNuQJs" allowFullScreen="1">
 </iframe>

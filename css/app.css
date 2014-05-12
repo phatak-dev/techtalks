@@ -1,0 +1,22 @@
+.category{
+  color: #aaaaaa;	
+}
+iframe.embed {
+	width: 81%;
+	height: 25em;
+}
+.site-nav {
+	line-height: 10px;
+}
+
+a .category:hover 
+{
+color:#2DE6CF;
+}  
+
+.excerpt {
+font-style: italic;
+font-size: medium;
+font-family: serif;
+margin-top: 1%;
+}

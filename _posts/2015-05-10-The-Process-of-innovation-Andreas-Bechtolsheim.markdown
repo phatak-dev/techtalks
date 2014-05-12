@@ -1,7 +1,7 @@
 ---
 layout: video-embed
 title:  "The Process of Innovation : Sun Microsystems cofounder Andreas Bechtolsheim"
-date:   2014-05-10 20:54:51
+date:   2014-05-10 20:54:53
 categories: sun
 video-url : https://www.youtube.com/embed/08frKEAtav4
 ---

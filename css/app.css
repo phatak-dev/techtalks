@@ -13,3 +13,10 @@ a .category:hover
 {
 color:#2DE6CF;
 }  
+
+.excerpt {
+font-style: italic;
+font-size: medium;
+font-family: serif;
+margin-top: 1%;
+}

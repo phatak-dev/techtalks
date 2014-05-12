@@ -15,5 +15,11 @@ layout: default
   <article class="post-content">
   {{ content }}
   </article>
+  <script type="text/javascript">
+   var iframes = document.getElementsByTagName("iframe");
+   for (var i=0;i<iframes.length;i++){
+      iframes[i].allowFullScreen="1";    
+   }
+  </script>
 
 </div>

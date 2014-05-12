@@ -1,0 +1,1 @@
+Its a collection of technical talks on different topics of computer science. All videos are linked from youtube/vimeo. I don't hold any copyrights to the content.

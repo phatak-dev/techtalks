@@ -8,3 +8,8 @@ iframe.embed {
 .site-nav {
 	line-height: 10px;
 }
+
+a .category:hover 
+{
+color:#2DE6CF;
+}  

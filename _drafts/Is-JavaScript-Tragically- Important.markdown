@@ -2,7 +2,7 @@
 layout: post
 title:  "Is JavaScript Tragically Important"
 date:   2014-05-10
-categories: javascript Douglas_Crockford
+categories: javascript Douglas-Crockford
 ---
 
 <iframe class="embed" 

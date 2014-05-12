@@ -6,7 +6,7 @@ baseurl: ""
 url: "http://ibuildhere.com"
 username : phatak-dev
 twitter : madhukaraphatak
-paginate: 10
+paginate: 5
 
 # Build settings
 markdown: kramdown

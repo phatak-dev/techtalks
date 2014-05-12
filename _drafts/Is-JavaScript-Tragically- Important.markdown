@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: video-embed
 title:  "Is JavaScript Tragically Important"
 date:   2014-05-10
 categories: javascript Douglas-Crockford
+video-url : https://www.youtube.com/embed/giNLrecFp9Q
 ---
-
-<iframe class="embed" 
-src="https://www.youtube.com/embed/giNLrecFp9Q">
-</iframe>
+Panel discussion on future of Javascript.

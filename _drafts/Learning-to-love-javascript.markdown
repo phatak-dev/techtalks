@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: video-embed
 title:  "Learning to love Javascript - Google I/O"
 date:   2014-05-10
 categories: javascript google
+video-url : https://www.youtube.com/embed/seX7jYI96GE
 ---
-
-<iframe class="embed" 
-src="https://www.youtube.com/embed/seX7jYI96GE">
-</iframe>
+History and future of Javascript.

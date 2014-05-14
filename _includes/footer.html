@@ -1,17 +1,7 @@
 <footer class="site-footer">
 
-  <div class="wrap">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
+  <div class="wrap">   
     <div class="footer-col-1 column">
-      <ul>
-        <li>{{ site.title }}</li>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      </ul>
-    </div>
-
-    <div class="footer-col-2 column">
       <ul>
         <li>
           <a href="https://github.com/{{ site.username }}">
@@ -55,6 +45,12 @@
     <div class="footer-col-3 column">
       <p class="text">{{ site.description }}</p>
     </div>
+
+    <div style="float:right;">
+      <a href="{{site.baseurl}}/feed.xml"><img src="{{site.baseurl}}/images/rss.png">
+    </div>
+
+
 
   </div>
 

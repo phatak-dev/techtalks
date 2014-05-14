@@ -7,6 +7,16 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Inventing on Principle : Interactive Programing</title>
+        <description>&lt;p&gt;Excellent talk on building applications interactively. Contains demo too!.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 May 2014 02:24:51 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/javascript/2014/05/15/Inventing-on-Principle/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript/2014/05/15/Inventing-on-Principle/</guid>
+      </item>
+    
+      <item>
         <title>The Future Doesn't Have to Be Incremental - Alan Kay</title>
         <description>&lt;p&gt;Great talk by Alan Kay&lt;/p&gt;
 </description>

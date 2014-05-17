@@ -30,7 +30,7 @@ layout: default
 <div class="pagination">
 
   {% if paginator.previous_page == 1 %}
-   <a href="/" class="previous">Previous</a>
+   <a href="{{site.baseurl}}/" class="previous">Previous</a>
   {% elsif paginator.previous_page > 1 %}
     <a href="{{site.baseurl}}/page{{paginator.previous_page}}" class="previous">Previous</a>
   {% else %}

@@ -6,7 +6,7 @@ baseurl: "/techtalks"
 url: "http://phatak-dev.github.io"
 username : phatak-dev
 twitter : madhukaraphatak
-paginate: 5
+paginate: 10
 
 # Build settings
 markdown: kramdown

@@ -7,15 +7,15 @@ layout: default
 
   <ul class="posts">
     {% for post in paginator.posts %}
-      <li>        
-        <!--<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+      <li>                
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
         </a>        
         <div>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         {% for category in post.categories %}
          <a href="{{site.baseurl}}/categories/{{category }}"><span class="category">{{category   }}</span></a>
          {% endfor %}
-        </div>
+        </div>        
         <div class="excerpt">
           {{post.excerpt}}
         </div>

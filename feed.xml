@@ -7,6 +7,76 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Learning to love Javascript - Google I/O</title>
+        <description>&lt;p&gt;History and future of Javascript.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/javascript/google/2015/05/17/Learning-to-love-javascript/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript/google/2015/05/17/Learning-to-love-javascript/</guid>
+      </item>
+    
+      <item>
+        <title>Ivan Sutherland Sketchpad(1960): First Object oriented programming demo</title>
+        <description>&lt;p&gt;Demo of first object oriented programming even before word object oriented was coined.&lt;/p&gt;
+
+&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/USyoT_Ha_bA&quot; allowfullscreen=&quot;1&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/BKM3CmRqK2o&quot; allowfullscreen=&quot;1&quot;&gt;
+&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 17 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/oop/2015/05/17/Ivan-Sutherland-Sketchpad/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/oop/2015/05/17/Ivan-Sutherland-Sketchpad/</guid>
+      </item>
+    
+      <item>
+        <title>Is JavaScript Tragically Important?</title>
+        <description>&lt;p&gt;Panel discussion on future of Javascript.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/javascript/douglas-crockford/2015/05/17/Is-JavaScript-Tragically-Important/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript/douglas-crockford/2015/05/17/Is-JavaScript-Tragically-Important/</guid>
+      </item>
+    
+      <item>
+        <title>Illumos : Story of solaris after Sun</title>
+        <description>&lt;p&gt;Illumos- Story of open source fork of open solaris.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/sun/2015/05/17/Illumos-Story-of-solaris-after-sun/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/sun/2015/05/17/Illumos-Story-of-solaris-after-sun/</guid>
+      </item>
+    
+      <item>
+        <title>Closures in Java</title>
+        <description>&lt;p&gt;JSR proposal for closures in java. Set to release in JDK8.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/java/2015/05/17/Closures-in-Java/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/java/2015/05/17/Closures-in-Java/</guid>
+      </item>
+    
+      <item>
+        <title>Future of Java : James Gosling</title>
+        <description>&lt;p&gt;Q&amp;amp;A session with James golsing after he left Oracle.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/java/sun/2014/05/17/Future-Of-Java-James-Gosling/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/java/sun/2014/05/17/Future-Of-Java-James-Gosling/</guid>
+      </item>
+    
+      <item>
+        <title>Best Practices in Javascript Library Design - John Resig (JQuery creator)</title>
+        <description>&lt;p&gt;Library design tricks from JQuery creator.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/javascript/2014/05/17/Best-Practices-in-Javascript-Library-Design/</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript/2014/05/17/Best-Practices-in-Javascript-Library-Design/</guid>
+      </item>
+    
+      <item>
         <title>Inventing on Principle : Interactive Programing</title>
         <description>&lt;p&gt;Excellent talk on building applications interactively. Contains demo too!.&lt;/p&gt;
 
@@ -32,24 +102,6 @@
         <pubDate>Sun, 11 May 2014 02:24:53 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/sun/2014/05/11/The-Process-of-innovation-Andreas-Bechtolsheim/</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/sun/2014/05/11/The-Process-of-innovation-Andreas-Bechtolsheim/</guid>
-      </item>
-    
-      <item>
-        <title>The Xerox Alto: A Personal Retrospective</title>
-        <description>&lt;p&gt;History of first personal computer created at Paulo alto research center.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 May 2014 02:24:52 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/alto/2014/05/11/The-Xerox-Alto-A-Personal-Retrospective/</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/alto/2014/05/11/The-Xerox-Alto-A-Personal-Retrospective/</guid>
-      </item>
-    
-      <item>
-        <title>The JSON Saga : Douglas Crockford</title>
-        <description>&lt;p&gt;Story of creation of JSON and its world domination.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 May 2014 02:24:51 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/douglas-crockford/javascript/2014/05/11/The-JSON%20-Saga-Douglas-%20Crockford/</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/douglas-crockford/javascript/2014/05/11/The-JSON%20-Saga-Douglas-%20Crockford/</guid>
       </item>
     
   </channel>

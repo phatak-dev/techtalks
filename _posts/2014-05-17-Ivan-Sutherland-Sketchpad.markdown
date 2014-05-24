@@ -2,7 +2,7 @@
 layout: video-embed
 title:  "Ivan Sutherland Sketchpad(1960): First Object oriented programming demo"
 date:   2014-05-17
-categories: oop
+categories: oop 1960
 ---
 Demo of first object oriented programming even before word object oriented was coined.
 

@@ -8,6 +8,7 @@ username : phatak-dev
 twitter : madhukaraphatak
 paginate: 10
 
+
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title.html

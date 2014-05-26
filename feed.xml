@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Scala: The Simple Parts - Martin Odersky</title>
+        <description>&lt;p&gt;Good talk by Martin Odersky on what constitutes as core part of scala.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 May 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/Scala-the-simple-parts.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Scala-the-simple-parts.html</guid>
+      </item>
+    
+      <item>
         <title>The Mother of All Demos - Douglas Engelbart</title>
         <description>&lt;p&gt;Great demo of computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor in 1968!!.&lt;/p&gt;
 </description>
@@ -91,15 +100,6 @@
         <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/Ivan-Sutherland-Sketchpad.html</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Ivan-Sutherland-Sketchpad.html</guid>
-      </item>
-    
-      <item>
-        <title>Is JavaScript Tragically Important?</title>
-        <description>&lt;p&gt;Panel discussion on future of Javascript.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/Is-JavaScript-Tragically-Important.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Is-JavaScript-Tragically-Important.html</guid>
       </item>
     
   </channel>

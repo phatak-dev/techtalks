@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Growing a Language - Guy Steele</title>
+        <description>&lt;p&gt;Guy Steele’s keynote at the 1998 ACM OOPSLA conference on “Growing a Language” discusses the importance of and issues associated with designing a programming language that can be grown by its users.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/Growing-a-Language-by-Guy-Steele.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Growing-a-Language-by-Guy-Steele.html</guid>
+      </item>
+    
+      <item>
         <title>Scala: The Simple Parts - Martin Odersky</title>
         <description>&lt;p&gt;Good talk by Martin Odersky on what constitutes as core part of scala.&lt;/p&gt;
 </description>
@@ -85,21 +94,6 @@
         <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/Learning-to-love-javascript.html</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Learning-to-love-javascript.html</guid>
-      </item>
-    
-      <item>
-        <title>Ivan Sutherland Sketchpad(1960): First Object oriented programming demo</title>
-        <description>&lt;p&gt;Demo of first object oriented programming even before word object oriented was coined.&lt;/p&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/USyoT_Ha_bA&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/BKM3CmRqK2o&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-</description>
-        <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/Ivan-Sutherland-Sketchpad.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Ivan-Sutherland-Sketchpad.html</guid>
       </item>
     
   </channel>

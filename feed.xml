@@ -7,12 +7,21 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Programming is terrible-Lessons learned from a life wasted</title>
+        <description>&lt;p&gt;Great rant on the state of programming art in industry. &lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/programming-is-terrible.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-is-terrible.html</guid>
+      </item>
+    
+      <item>
         <title>Growing a Language - Guy Steele</title>
         <description>&lt;p&gt;Guy Steele’s keynote at the 1998 ACM OOPSLA conference on “Growing a Language” discusses the importance of and issues associated with designing a programming language that can be grown by its users.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/Growing-a-Language-by-Guy-Steele.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Growing-a-Language-by-Guy-Steele.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele.html</guid>
       </item>
     
       <item>
@@ -20,8 +29,8 @@
         <description>&lt;p&gt;Good talk by Martin Odersky on what constitutes as core part of scala.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/Scala-the-simple-parts.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Scala-the-simple-parts.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/scala-the-simple-parts.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/scala-the-simple-parts.html</guid>
       </item>
     
       <item>
@@ -70,30 +79,21 @@
       </item>
     
       <item>
+        <title>Buffett &amp; Gates on Success</title>
+        <description>&lt;p&gt;Two different views of success in entrepreneurship and business  by Warren buffet and Bill gates.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/buffett-gates-on-success.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/buffett-gates-on-success.html</guid>
+      </item>
+    
+      <item>
         <title>How To Design A Good API and Why it Matters - Joshua Bloch</title>
         <description>&lt;p&gt;Talk on design of long lasting API by Joshua Bloch , designer of Java collection API.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/api-design-by-Joshua-Bloch.html</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/api-design-by-Joshua-Bloch.html</guid>
-      </item>
-    
-      <item>
-        <title>Buffett &amp; Gates on Success</title>
-        <description>&lt;p&gt;Two different views of success in entrepreneurship and business  by Warren buffet and Bill gates.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/Buffett-Gates-on-Success.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Buffett-Gates-on-Success.html</guid>
-      </item>
-    
-      <item>
-        <title>Learning to love Javascript - Google I/O</title>
-        <description>&lt;p&gt;History and future of Javascript.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/Learning-to-love-javascript.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/Learning-to-love-javascript.html</guid>
       </item>
     
   </channel>

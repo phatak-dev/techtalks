@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Design sprints - Google I/O 2014</title>
+        <description>&lt;p&gt;Great talk on how to design and prototype within a week. Concrete examples from Google Ventures and Google X.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jun 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/design-sprints.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/design-sprints.html</guid>
+      </item>
+    
+      <item>
         <title>Programming is terrible-Lessons learned from a life wasted</title>
         <description>&lt;p&gt;Great rant on the state of programming art in industry. &lt;/p&gt;
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/buffett-gates-on-success.html</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/buffett-gates-on-success.html</guid>
-      </item>
-    
-      <item>
-        <title>How To Design A Good API and Why it Matters - Joshua Bloch</title>
-        <description>&lt;p&gt;Talk on design of long lasting API by Joshua Bloch , designer of Java collection API.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/api-design-by-Joshua-Bloch.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/api-design-by-Joshua-Bloch.html</guid>
       </item>
     
   </channel>

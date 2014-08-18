@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The Value of Values with Rich Hickey</title>
+        <description>&lt;p&gt;Great talk on how immutability is the basis of modern information systems.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Aug 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/the-value-of-values</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-value-of-values</guid>
+      </item>
+    
+      <item>
         <title>User interface algorithms @JSConf by Mark DiMarco</title>
         <description>&lt;p&gt;Great talk on how math meets user interface design.&lt;/p&gt;
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain</guid>
-      </item>
-    
-      <item>
-        <title>JavaScript Programming in the Large with Closure Tools</title>
-        <description>&lt;p&gt;Google closure for optimizing large javascript codebases.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/javascript-closure-tools</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-closure-tools</guid>
       </item>
     
   </channel>

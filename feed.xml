@@ -11,8 +11,8 @@
         <description>&lt;p&gt;Great talk on how math meets user interface design.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Aug 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/user-interface-algorithms.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/user-interface-algorithms.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/user-interface-algorithms</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/user-interface-algorithms</guid>
       </item>
     
       <item>
@@ -20,8 +20,8 @@
         <description>&lt;p&gt;Great talk on how to build computer systems like biological systems which will evolve with time.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Jun 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long</guid>
       </item>
     
       <item>
@@ -29,8 +29,8 @@
         <description>&lt;p&gt;Great talk on how to design and prototype within a week. Concrete examples from Google Ventures and Google X.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Jun 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/design-sprints.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/design-sprints.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/design-sprints</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/design-sprints</guid>
       </item>
     
       <item>
@@ -38,8 +38,8 @@
         <description>&lt;p&gt;Great rant on the state of programming art in industry. &lt;/p&gt;
 </description>
         <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/programming-is-terrible.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-is-terrible.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/programming-is-terrible</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-is-terrible</guid>
       </item>
     
       <item>
@@ -47,8 +47,8 @@
         <description>&lt;p&gt;Guy Steele’s keynote at the 1998 ACM OOPSLA conference on “Growing a Language” discusses the importance of and issues associated with designing a programming language that can be grown by its users.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele</guid>
       </item>
     
       <item>
@@ -56,8 +56,8 @@
         <description>&lt;p&gt;Good talk by Martin Odersky on what constitutes as core part of scala.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/scala-the-simple-parts.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/scala-the-simple-parts.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/scala-the-simple-parts</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/scala-the-simple-parts</guid>
       </item>
     
       <item>
@@ -65,8 +65,8 @@
         <description>&lt;p&gt;Great demo of computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor in 1968!!.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/the-mother-of-all-demos.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-mother-of-all-demos.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/the-mother-of-all-demos</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-mother-of-all-demos</guid>
       </item>
     
       <item>
@@ -74,8 +74,8 @@
         <description>&lt;p&gt;Another demo of interactive programming by Bret-victor.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/stop-drawing-dead-fish.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/stop-drawing-dead-fish.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/stop-drawing-dead-fish</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/stop-drawing-dead-fish</guid>
       </item>
     
       <item>
@@ -83,8 +83,8 @@
         <description>&lt;p&gt;Understanding why functional programming is natural to our brain.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain</guid>
       </item>
     
       <item>
@@ -92,8 +92,8 @@
         <description>&lt;p&gt;Google closure for optimizing large javascript codebases.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/javascript-closure-tools.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-closure-tools.html</guid>
+        <link>http://phatak-dev.github.io/techtalks/javascript-closure-tools</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-closure-tools</guid>
       </item>
     
   </channel>

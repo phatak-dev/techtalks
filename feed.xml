@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>User interface algorithms @JSConf by Mark DiMarco</title>
+        <description>&lt;p&gt;Great talk on how math meets user interface design.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Aug 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/user-interface-algorithms.html</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/user-interface-algorithms.html</guid>
+      </item>
+    
+      <item>
         <title>Legacy - Creating software that lasts long : Scala Days 2014</title>
         <description>&lt;p&gt;Great talk on how to build computer systems like biological systems which will evolve with time.&lt;/p&gt;
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/javascript-closure-tools.html</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-closure-tools.html</guid>
-      </item>
-    
-      <item>
-        <title>Cynogenmod project-Steve Kondik</title>
-        <description>&lt;p&gt;Talk on history of Cynogenmod - after market android ROM.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/cynogenmod-steve-kondik.html</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/cynogenmod-steve-kondik.html</guid>
       </item>
     
   </channel>

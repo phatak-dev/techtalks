@@ -1,6 +1,6 @@
 ---
 layout: video-embed
-title:  "Kanban for Developers with TJ Gokcen "
+title:  "Kanban for Developers with TJ Gokcen"
 date:   2014-08-20
 categories: software development technique
 video-url : https://www.youtube.com/embed/xyhu_0HZr0E

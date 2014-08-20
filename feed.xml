@@ -7,6 +7,24 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Programming with nothing - Tom Stuart</title>
+        <description>&lt;p&gt;Great talk on how everything in program is a function after all.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Aug 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/programming-with-nothing</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-with-nothing</guid>
+      </item>
+    
+      <item>
+        <title>Y Not- Adventures in Functional Programming by Jim Weirich</title>
+        <description>&lt;p&gt;Great talk on Lambda calculus with fascinating demo code.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Aug 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/adventures-in-functional-programming</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/adventures-in-functional-programming</guid>
+      </item>
+    
+      <item>
         <title>The Value of Values with Rich Hickey</title>
         <description>&lt;p&gt;Great talk on how immutability is the basis of modern information systems.&lt;/p&gt;
 </description>
@@ -76,24 +94,6 @@
         <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/the-mother-of-all-demos</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-mother-of-all-demos</guid>
-      </item>
-    
-      <item>
-        <title>Stop Drawing Dead Fish</title>
-        <description>&lt;p&gt;Another demo of interactive programming by Bret-victor.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/stop-drawing-dead-fish</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/stop-drawing-dead-fish</guid>
-      </item>
-    
-      <item>
-        <title>JavaScript Programming Style and Your Brain - Douglas Crockford </title>
-        <description>&lt;p&gt;Understanding why functional programming is natural to our brain.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-programming-style-and-your-brain</guid>
       </item>
     
   </channel>

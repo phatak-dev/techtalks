@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Kanban for Developers with TJ Gokcen</title>
+        <description>&lt;p&gt;One nice video about technique for managing a software development process - Kanban.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Aug 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/kanban-for-developers</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/kanban-for-developers</guid>
+      </item>
+    
+      <item>
         <title>Programming with nothing - Tom Stuart</title>
         <description>&lt;p&gt;Great talk on how everything in program is a function after all.&lt;/p&gt;
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Mon, 26 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/scala-the-simple-parts</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/scala-the-simple-parts</guid>
-      </item>
-    
-      <item>
-        <title>The Mother of All Demos - Douglas Engelbart</title>
-        <description>&lt;p&gt;Great demo of computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor in 1968!!.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/the-mother-of-all-demos</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-mother-of-all-demos</guid>
       </item>
     
   </channel>

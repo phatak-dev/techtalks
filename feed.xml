@@ -7,6 +7,24 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Emacs - The editor of the lifetime</title>
+        <description>&lt;p&gt;Talk from a person who used emacs for last thirty years. Only few software last that long.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/the-editor-of-the-lifetime</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-editor-of-the-lifetime</guid>
+      </item>
+    
+      <item>
+        <title>Simplicity Matters by Rich Hickey</title>
+        <description>&lt;p&gt;Great talk on how simplicity should be a design goal rather an afterthought.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/simplicity-matter</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/simplicity-matter</guid>
+      </item>
+    
+      <item>
         <title>Kanban for Developers with TJ Gokcen</title>
         <description>&lt;p&gt;One nice video about technique for managing a software development process - Kanban.&lt;/p&gt;
 </description>
@@ -76,24 +94,6 @@
         <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/programming-is-terrible</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-is-terrible</guid>
-      </item>
-    
-      <item>
-        <title>Growing a Language - Guy Steele</title>
-        <description>&lt;p&gt;Guy Steele’s keynote at the 1998 ACM OOPSLA conference on “Growing a Language” discusses the importance of and issues associated with designing a programming language that can be grown by its users.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/growing-a-language-by-guy-steele</guid>
-      </item>
-    
-      <item>
-        <title>Scala: The Simple Parts - Martin Odersky</title>
-        <description>&lt;p&gt;Good talk by Martin Odersky on what constitutes as core part of scala.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/scala-the-simple-parts</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/scala-the-simple-parts</guid>
       </item>
     
   </channel>

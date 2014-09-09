@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The Evolution of Java: Past, Present, and Future</title>
+        <description>&lt;p&gt;Great talk by Joshua Bloch, creator of Java collections library, on how Java evolved over the years.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/the-evolution-of-java</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-evolution-of-java</guid>
+      </item>
+    
+      <item>
         <title>Emacs - The editor of the lifetime</title>
         <description>&lt;p&gt;Talk from a person who used emacs for last thirty years. Only few software last that long.&lt;/p&gt;
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Fri, 27 Jun 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/design-sprints</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/design-sprints</guid>
-      </item>
-    
-      <item>
-        <title>Programming is terrible-Lessons learned from a life wasted</title>
-        <description>&lt;p&gt;Great rant on the state of programming art in industry. &lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 May 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/programming-is-terrible</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-is-terrible</guid>
       </item>
     
   </channel>

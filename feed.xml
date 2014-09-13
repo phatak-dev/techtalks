@@ -7,6 +7,51 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The Origins of Linux - Linus Torvalds (2001)</title>
+        <description>&lt;p&gt;Rare talk and Q&amp;amp;A on history of linux with Linus Torvalds in 2001.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/the-origins-of-linux</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-origins-of-linux</guid>
+      </item>
+    
+      <item>
+        <title>The Language of the System - Rich Hickey</title>
+        <description>&lt;p&gt;Great talk by Rich Hickey how programming languages should support system building rather than program building.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/the-language-of-the-system</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-language-of-the-system</guid>
+      </item>
+    
+      <item>
+        <title>RevolutionOS - Linux story</title>
+        <description>&lt;p&gt;Great documentary on evolution of Linux and open source in general.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/revolution-os</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/revolution-os</guid>
+      </item>
+    
+      <item>
+        <title>Voices That Matter: GWT - Conversation with Josh Bloch</title>
+        <description>&lt;p&gt;Josh Bloch interview on design of GWT and Java in general.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/gwt-josh-bloch</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/gwt-josh-bloch</guid>
+      </item>
+    
+      <item>
+        <title>Linus Torvalds on git - Google techtalk</title>
+        <description>&lt;p&gt;Great talk on design of git by Linus Torvalds.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/git-by-linus-tornvalds</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/git-by-linus-tornvalds</guid>
+      </item>
+    
+      <item>
         <title>The Evolution of Java: Past, Present, and Future</title>
         <description>&lt;p&gt;Great talk by Joshua Bloch, creator of Java collections library, on how Java evolved over the years.&lt;/p&gt;
 </description>
@@ -49,51 +94,6 @@
         <pubDate>Wed, 20 Aug 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/programming-with-nothing</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-with-nothing</guid>
-      </item>
-    
-      <item>
-        <title>Y Not- Adventures in Functional Programming by Jim Weirich</title>
-        <description>&lt;p&gt;Great talk on Lambda calculus with fascinating demo code.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Aug 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/adventures-in-functional-programming</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/adventures-in-functional-programming</guid>
-      </item>
-    
-      <item>
-        <title>The Value of Values with Rich Hickey</title>
-        <description>&lt;p&gt;Great talk on how immutability is the basis of modern information systems.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Aug 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/the-value-of-values</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-value-of-values</guid>
-      </item>
-    
-      <item>
-        <title>User interface algorithms @JSConf by Mark DiMarco</title>
-        <description>&lt;p&gt;Great talk on how math meets user interface design.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Aug 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/user-interface-algorithms</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/user-interface-algorithms</guid>
-      </item>
-    
-      <item>
-        <title>Legacy - Creating software that lasts long : Scala Days 2014</title>
-        <description>&lt;p&gt;Great talk on how to build computer systems like biological systems which will evolve with time.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 27 Jun 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long</guid>
-      </item>
-    
-      <item>
-        <title>Design sprints - Google I/O 2014</title>
-        <description>&lt;p&gt;Great talk on how to design and prototype within a week. Concrete examples from Google Ventures and Google X.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 27 Jun 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/design-sprints</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/design-sprints</guid>
       </item>
     
   </channel>

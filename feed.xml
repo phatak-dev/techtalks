@@ -7,6 +7,30 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The Origin of Javascript with Brendan Eich - podcast</title>
+        <description>&lt;p&gt;Rare podcast on story of Javascript origins. It covers from Netscape days to V8 and Node.js.&lt;/p&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://traffic.libsyn.com/jsjabber/JSJ124BrendanEich.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+  Your browser does not support the audio element. Listen to podcast [here](http://javascriptjabber.com/124-jsj-the-origin-of-javascript-with-brendan-eich/)
+&lt;/audio&gt;
+</description>
+        <pubDate>Mon, 22 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/the-origins-of-javascript-podcast</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-origins-of-javascript-podcast</guid>
+      </item>
+    
+      <item>
+        <title>Code rush - Netscape Mozilla Documentary 1998 - 2000</title>
+        <description>&lt;p&gt;Documentary on how Netscape open sourced their browser to create Mozilla and Firefox.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 22 Sep 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/story-of-firefox</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/story-of-firefox</guid>
+      </item>
+    
+      <item>
         <title>The Origins of Linux - Linus Torvalds (2001)</title>
         <description>&lt;p&gt;Rare talk and Q&amp;amp;A on history of linux with Linus Torvalds in 2001.&lt;/p&gt;
 </description>
@@ -76,24 +100,6 @@
         <pubDate>Wed, 03 Sep 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/simplicity-matter</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/simplicity-matter</guid>
-      </item>
-    
-      <item>
-        <title>Kanban for Developers with TJ Gokcen</title>
-        <description>&lt;p&gt;One nice video about technique for managing a software development process - Kanban.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Aug 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/kanban-for-developers</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/kanban-for-developers</guid>
-      </item>
-    
-      <item>
-        <title>Programming with nothing - Tom Stuart</title>
-        <description>&lt;p&gt;Great talk on how everything in program is a function after all.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Aug 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/programming-with-nothing</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/programming-with-nothing</guid>
       </item>
     
   </channel>

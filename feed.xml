@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Javascript the new good parts - Douglas Crockford </title>
+        <description>&lt;p&gt;Good talk on new good parts in Javascript and author’s ideas on how new programming language should look like.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Oct 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/javascript-the-new-good-parts</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-the-new-good-parts</guid>
+      </item>
+    
+      <item>
         <title>The Origin of Javascript with Brendan Eich - podcast</title>
         <description>&lt;p&gt;Rare podcast on story of Javascript origins. It covers from Netscape days to V8 and Node.js.&lt;/p&gt;
 
@@ -91,15 +100,6 @@
         <pubDate>Wed, 03 Sep 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/the-editor-of-the-lifetime</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-editor-of-the-lifetime</guid>
-      </item>
-    
-      <item>
-        <title>Simplicity Matters by Rich Hickey</title>
-        <description>&lt;p&gt;Great talk on how simplicity should be a design goal rather an afterthought.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/simplicity-matter</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/simplicity-matter</guid>
       </item>
     
   </channel>

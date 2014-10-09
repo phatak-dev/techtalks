@@ -1,6 +1,6 @@
 ---
 layout: video-embed
-title:  "Sun Microsystems founders panel"
+title:  "Sun Microsystems founders panel(2007)"
 date:   2014-10-09
 categories: sun
 video-url : https://www.youtube.com/embed/dkmzb904tG0

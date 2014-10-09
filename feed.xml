@@ -7,12 +7,30 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Sun Microsystems founders panel(2007)</title>
+        <description>&lt;p&gt;Great interview of founders of Sun Microsystems Scott McNealy, Andy Bechtolsheim, Bill Joy and Vinod Khosla. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Oct 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/sun-microsystems-founders-panel</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/sun-microsystems-founders-panel</guid>
+      </item>
+    
+      <item>
         <title>Javascript the new good parts - Douglas Crockford </title>
         <description>&lt;p&gt;Good talk on new good parts in Javascript and author’s ideas on how new programming language should look like.&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Oct 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/javascript-the-new-good-parts</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-the-new-good-parts</guid>
+      </item>
+    
+      <item>
+        <title>Donald Knuth - All Questions Answered</title>
+        <description>&lt;p&gt;Great Q&amp;amp;A session with Donald Knuth, author of The Art of Computer Programming&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Oct 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/donald-knuth-all-questions-answered</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/donald-knuth-all-questions-answered</guid>
       </item>
     
       <item>
@@ -82,24 +100,6 @@
         <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/git-by-linus-tornvalds</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/git-by-linus-tornvalds</guid>
-      </item>
-    
-      <item>
-        <title>The Evolution of Java: Past, Present, and Future</title>
-        <description>&lt;p&gt;Great talk by Joshua Bloch, creator of Java collections library, on how Java evolved over the years.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/the-evolution-of-java</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-evolution-of-java</guid>
-      </item>
-    
-      <item>
-        <title>Emacs - The editor of the lifetime</title>
-        <description>&lt;p&gt;Talk from a person who used emacs for last thirty years. Only few software last that long.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/the-editor-of-the-lifetime</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-editor-of-the-lifetime</guid>
       </item>
     
   </channel>

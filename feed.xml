@@ -7,6 +7,33 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Pixar - A Human Story of Computer Animation</title>
+        <description>&lt;p&gt;Great Q&amp;amp;A with founders of Pixar on how computer graphics over last few decades.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Oct 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/pixar-history</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/pixar-history</guid>
+      </item>
+    
+      <item>
+        <title>What the heck is the event loop anyway?</title>
+        <description>&lt;p&gt;Great talk on inner workings of Javascript event loop.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Oct 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/javascript-event-loop</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-event-loop</guid>
+      </item>
+    
+      <item>
+        <title>Concurrency Is Not Parallelism - Rob Pike</title>
+        <description>&lt;p&gt;Great talk by Rob pike on how concurrency not always means parallelism. Slides are available &lt;a href=&quot;http://talks.golang.org/2012/waza.slide&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Oct 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/concurrency-is-not-parallelism</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/concurrency-is-not-parallelism</guid>
+      </item>
+    
+      <item>
         <title>Sun Microsystems founders panel(2007)</title>
         <description>&lt;p&gt;Great interview of founders of Sun Microsystems Scott McNealy, Andy Bechtolsheim, Bill Joy and Vinod Khosla. &lt;/p&gt;
 </description>
@@ -73,33 +100,6 @@
         <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/the-language-of-the-system</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-language-of-the-system</guid>
-      </item>
-    
-      <item>
-        <title>RevolutionOS - Linux story</title>
-        <description>&lt;p&gt;Great documentary on evolution of Linux and open source in general.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/revolution-os</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/revolution-os</guid>
-      </item>
-    
-      <item>
-        <title>Voices That Matter: GWT - Conversation with Josh Bloch</title>
-        <description>&lt;p&gt;Josh Bloch interview on design of GWT and Java in general.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/gwt-josh-bloch</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/gwt-josh-bloch</guid>
-      </item>
-    
-      <item>
-        <title>Linus Torvalds on git - Google techtalk</title>
-        <description>&lt;p&gt;Great talk on design of git by Linus Torvalds.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/git-by-linus-tornvalds</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/git-by-linus-tornvalds</guid>
       </item>
     
   </channel>

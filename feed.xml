@@ -7,6 +7,15 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Internet of things using FirefoxOS phone</title>
+        <description>&lt;p&gt;Great video on how to build cool things using FirefoxOS phone circuit board.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Oct 2014 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/internet-of-things-using-firefoxos-phone</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/internet-of-things-using-firefoxos-phone</guid>
+      </item>
+    
+      <item>
         <title>Pixar - A Human Story of Computer Animation</title>
         <description>&lt;p&gt;Great Q&amp;amp;A with founders of Pixar on how computer graphics over last few decades.&lt;/p&gt;
 </description>
@@ -91,15 +100,6 @@
         <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/the-origins-of-linux</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-origins-of-linux</guid>
-      </item>
-    
-      <item>
-        <title>The Language of the System - Rich Hickey</title>
-        <description>&lt;p&gt;Great talk by Rich Hickey how programming languages should support system building rather than program building.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/the-language-of-the-system</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/the-language-of-the-system</guid>
       </item>
     
   </channel>

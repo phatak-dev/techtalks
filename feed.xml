@@ -7,6 +7,24 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Lambdas in Java: A peek under the hood by Brian Goetz </title>
+        <description>&lt;p&gt;Good talk on how lambdas are implemented in Java 8.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/lamdas-in-java</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/lamdas-in-java</guid>
+      </item>
+    
+      <item>
+        <title>Clang MapReduce -- Automatic C++ Refactoring at Google Scale</title>
+        <description>&lt;p&gt;Good talk on how to use map/reduce infrastructure and clang to improve quality of C++ code.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/clang-mapreduce</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/clang-mapreduce</guid>
+      </item>
+    
+      <item>
         <title>Transducers by Rich Hickey</title>
         <description>&lt;p&gt;Great talk on generalizing combinators like map,filter across different data structures.&lt;/p&gt;
 </description>
@@ -94,24 +112,6 @@
         <pubDate>Wed, 15 Oct 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/pixar-history</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/pixar-history</guid>
-      </item>
-    
-      <item>
-        <title>What the heck is the event loop anyway?</title>
-        <description>&lt;p&gt;Great talk on inner workings of Javascript event loop.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Oct 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/javascript-event-loop</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-event-loop</guid>
-      </item>
-    
-      <item>
-        <title>Concurrency Is Not Parallelism - Rob Pike</title>
-        <description>&lt;p&gt;Great talk by Rob pike on how concurrency not always means parallelism. Slides are available &lt;a href=&quot;http://talks.golang.org/2012/waza.slide&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Oct 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/concurrency-is-not-parallelism</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/concurrency-is-not-parallelism</guid>
       </item>
     
   </channel>

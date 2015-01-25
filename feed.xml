@@ -7,6 +7,33 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Simplicity In Scala Design</title>
+        <description>&lt;p&gt;Great talk by ScalaTest developer, on how to use powerful features of Scala language in a useful way.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/simplicity-in-scala-design</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/simplicity-in-scala-design</guid>
+      </item>
+    
+      <item>
+        <title>You can be a kernel hacker! by Julia evans</title>
+        <description>&lt;p&gt;Great talk how to get started with linux kernel hacking. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/kernel-hacking-julia-evans</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/kernel-hacking-julia-evans</guid>
+      </item>
+    
+      <item>
+        <title>Fixing Code at 100mph: Techniques to Improve How You Debug Servers</title>
+        <description>&lt;p&gt;Great talk on production java debugging.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/java-production-debugging</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/java-production-debugging</guid>
+      </item>
+    
+      <item>
         <title>Lambdas in Java: A peek under the hood by Brian Goetz </title>
         <description>&lt;p&gt;Good talk on how lambdas are implemented in Java 8.&lt;/p&gt;
 </description>
@@ -85,33 +112,6 @@
         <pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/aws-innovation-at-scale</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/aws-innovation-at-scale</guid>
-      </item>
-    
-      <item>
-        <title>Javascript... Torrents... and Mad Science!</title>
-        <description>&lt;p&gt;Great talk on streaming torrents and peer to peer communication in javascript.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 16 Nov 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/javascript-torrents-and-mad-science</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/javascript-torrents-and-mad-science</guid>
-      </item>
-    
-      <item>
-        <title>Internet of things using FirefoxOS phone</title>
-        <description>&lt;p&gt;Great video on how to build cool things using FirefoxOS phone circuit board.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 Oct 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/internet-of-things-using-firefoxos-phone</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/internet-of-things-using-firefoxos-phone</guid>
-      </item>
-    
-      <item>
-        <title>Pixar - A Human Story of Computer Animation</title>
-        <description>&lt;p&gt;Great Q&amp;amp;A with founders of Pixar on how computer graphics over last few decades.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Oct 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/pixar-history</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/pixar-history</guid>
       </item>
     
   </channel>

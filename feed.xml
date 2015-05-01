@@ -7,6 +7,51 @@
     <atom:link href="http://phatak-dev.github.io/techtalks/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>RAMANUJAN: Letters from an Indian Clerk</title>
+        <description>&lt;p&gt;Great documentary on indian mathematical genius Ramanujan.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/ramanujan-documentary</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/ramanujan-documentary</guid>
+      </item>
+    
+      <item>
+        <title>Oral History of Bjarne Stroustrup</title>
+        <description>&lt;p&gt;Great interview about history of C++ and System programming in general by C++ creator Bjarne Stroustrup.  &lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/oral-history-of-bjarne-stroustrup</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/oral-history-of-bjarne-stroustrup</guid>
+      </item>
+    
+      <item>
+        <title>LangNext 2014: State of System programming</title>
+        <description>&lt;p&gt;Great panel of various system language designers about state of system programming.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/langnext</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/langnext</guid>
+      </item>
+    
+      <item>
+        <title>Using Python to Code by Voice</title>
+        <description>&lt;p&gt;Great talk on how to use state of the art voice recognize to code.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/coding-by-voice</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/coding-by-voice</guid>
+      </item>
+    
+      <item>
+        <title>Binary Compatibility in Scala by Martin Odersky</title>
+        <description>&lt;p&gt;Good talk on how Scala will implement binary compatibility in upcoming releases.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
+        <link>http://phatak-dev.github.io/techtalks/binary-compatibility-in-scala</link>
+        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/binary-compatibility-in-scala</guid>
+      </item>
+    
+      <item>
         <title>Simplicity In Scala Design</title>
         <description>&lt;p&gt;Great talk by ScalaTest developer, on how to use powerful features of Scala language in a useful way.&lt;/p&gt;
 </description>
@@ -49,69 +94,6 @@
         <pubDate>Mon, 12 Jan 2015 00:00:00 +0530</pubDate>
         <link>http://phatak-dev.github.io/techtalks/clang-mapreduce</link>
         <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/clang-mapreduce</guid>
-      </item>
-    
-      <item>
-        <title>Transducers by Rich Hickey</title>
-        <description>&lt;p&gt;Great talk on generalizing combinators like map,filter across different data structures.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/tranducer-rich-hickey</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/tranducer-rich-hickey</guid>
-      </item>
-    
-      <item>
-        <title>Reading code good by Saron Yitbarek</title>
-        <description>&lt;p&gt;Great talk on how to read code together.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/reading-code-good</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/reading-code-good</guid>
-      </item>
-    
-      <item>
-        <title>Nailing the Hard Things by Ben Horowitz(Netscape co-founder)</title>
-        <description>&lt;p&gt;Great Q&amp;amp;A with Ben Horowitz on  entrepreneurship, venture capital and software industry in general.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/nailing-the-hard-things</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/nailing-the-hard-things</guid>
-      </item>
-    
-      <item>
-        <title>Importance of Mathematics</title>
-        <description>&lt;p&gt;Great talk on why abstract mathematics is super important.&lt;/p&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/BsIJN4YMZZo&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/NyqiEMilyns&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/bVgoHb73i7U&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/FszlWrvyxPc&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/gjA8S82Q810&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;iframe class=&quot;embed&quot; src=&quot;https://www.youtube.com/embed/4ivoaFLQ4vM&quot; allowfullscreen=&quot;1&quot;&gt;
-&lt;/iframe&gt;
-</description>
-        <pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/importance-of-mathematics</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/importance-of-mathematics</guid>
-      </item>
-    
-      <item>
-        <title>AWS innovation at Scale</title>
-        <description>&lt;p&gt;Great talk on how AWS scales to millions of users,same time keeping costs as low as possible.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://phatak-dev.github.io/techtalks/aws-innovation-at-scale</link>
-        <guid isPermaLink="true">http://phatak-dev.github.io/techtalks/aws-innovation-at-scale</guid>
       </item>
     
   </channel>
